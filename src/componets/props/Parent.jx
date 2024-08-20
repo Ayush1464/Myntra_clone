@@ -1,0 +1,13 @@
+import React from "react";
+
+const Parent=()=>{
+
+    let money1=20000;
+    let money2=10000;
+    return(
+        <>
+        <h1>I am a parent component</h1>
+
+        </>
+    )
+}
